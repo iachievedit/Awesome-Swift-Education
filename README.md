@@ -136,6 +136,7 @@ A curated list of resources for learning about the Swift Language.
 - The iOS Times [:notebook:](http://theiostimes.com/)
 - Crunchy Development [:notebook:](http://alisoftware.github.io/)
 - iOS Blog [:notebook:](http://ios-blog.co.uk/)
+- iAchieved.it [:notebook:](http://dev.iachieved.it/iachievedit/)
 
 ## **Newsletters**
 - This Week in Swift News [:newspaper:](https://swiftnews.curated.co/issues)
